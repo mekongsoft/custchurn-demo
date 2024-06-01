@@ -37,7 +37,7 @@ This is how we work:
 On our web form, enter the parameter for an Internet Customer, then select one of the 12 models as below
 ![Marketing](./marketing/BackendAPI_Form.png)
 
-Then click Submit to know the possibility if this Customer can churn or not
+Then click Predict button to know the possibility if this Customer can churn or not
 
 ![Marketing](./marketing/BackendAPI_Predict.png)
 
@@ -51,27 +51,18 @@ These below are the True Positive rate for Adaboost, CatBoost and XGBoost
 
 We have also reached the similar conclusions to Internet Customer Churn Prediction:
 
-a) Internet customers with Month-to-Month Contract opted to move out than One-Year Contracted or Two-Year Contracted customers
+1. Internet customers with Month-to-Month Contract opted to move out than One-Year Contracted or Two-Year Contracted customers
+2. Internet customers who pay by Credit-Card Automatic Transfer, Bank Automatic Transfer or Mailed Check are less likely to churn
+3. Internet customers having DSL service are less likely to churn than Fibre optic service
+4. Internet customers without dependents are more likely to churn
+5. Internet customers churn due to lack of online security
+6. Most of the senior (elder) Internet customers churn
+7. Internet customers with Paperless Billing are more likely to churn
+8. Internet customers with no TechSupport are more likely to churn
+9. Internet customers with higher Monthly Charges are also more likely to churn
+10. Newer Internet customers are more likely to churn
 
-b) Internet customers who pay by Credit-Card Automatic Transfer, Bank Automatic Transfer or Mailed Check are less likely to churn
-
-c) Internet customers having DSL service are less likely to churn than Fibre optic service
-
-d) Internet customers without dependents are more likely to churn
-
-e) Internet customers churn due to lack of online security
-
-f) Most of the senior (elder) Internet customers churn
-
-g) Internet customers with Paperless Billing are more likely to churn
-
-h) Internet customers with no TechSupport are more likely to churn
-
-i) Internet customers with higher Monthly Charges are also more likely to churn
-
-j) Newer Internet customers are more likely to churn
-
-This Repo is for Markerting Demo tasks.
+This Repo is for Marketing Demo tasks.
 
 https://github.com/mekongsoft/custchurn-demo
 
