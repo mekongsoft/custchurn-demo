@@ -28,31 +28,7 @@ We have created 12 models to compare their performances on Internet Customer Chu
 in which the performance of Adaboost has been the best model to predict Internet Customer Churn,
 This is our accuracy evaluation
 
-                   Model  Accuracy  Precision    Recall  F1 SCore  F2 Score
-
-0               Adaboost  0.812322   0.687927  0.538324  0.604000  0.562803
-
-1               CatBoost  0.776303   0.680162  0.299465  0.415842  0.337214
-
-2      Voting Classifier  0.808531   0.675615  0.538324  0.599206  0.561130
-
-3         Gradient Boost  0.804265   0.669725  0.520499  0.585757  0.544776
-
-4             Kernel SVM  0.793839   0.659898  0.463458  0.544503  0.492798
-
-5    Logistic Regression  0.805687   0.658281  0.559715  0.605010  0.576994
-
-6          Random Forest  0.796682   0.650685  0.508021  0.570571  0.531320
-
-7   K-Nearest Neighbours  0.789100   0.628889  0.504456  0.559842  0.525241
-
-8           SVM (Linear)  0.788626   0.628635  0.500891  0.557540  0.522111
-
-9                XGBoost  0.772986   0.581349  0.522282  0.550235  0.533115
-
-10           Naive Bayes  0.756872   0.531088  0.730838  0.615154  0.679708
-
-11         Decision Tree  0.732701   0.497364  0.504456  0.500885  0.503022
+![Marketing](./marketing/ModelAccuracies.png)
 
 So the best is Adaboost (81.23%), the second is Voting Classifier (80.85%), the third is Logistic Regression (80.57%) and the fourth is Gradient Boost (80.42%), then the rest are below 80%.
 
