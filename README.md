@@ -1,12 +1,12 @@
 # <div align="center">Demo Data for Internet Customer Churn Prediction</div>
 
-The Foghlaim Meaisin Software recently launched the Foghlaim Meaisin Energy Price Prediction software
+The Foghlaim Meaisin Software recently launched the Foghlaim Meaisin Internet Customer Churn Prediction software
 
 Our homepage is here
 
 https://foghlaimmeaisin.com/
 
-You can try our demo data onto the Energy Price Prediction System here
+You can try our demo data onto the Internet Customer Churn Prediction System here
 
 https://github.com/mekongsoft/custchurn-demo
 
