@@ -26,6 +26,7 @@ We have created 12 models to compare their performances on Internet Customer Chu
 * XGBoost
 
 in which the performance of Adaboost has been the best model to predict Internet Customer Churn,
+
 This is our accuracy evaluation
 
 ![Marketing](./marketing/ModelAccuracies.png)
