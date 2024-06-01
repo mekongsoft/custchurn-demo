@@ -36,6 +36,7 @@ So the best is Adaboost (81.23%), the second is Voting Classifier (80.85%), the 
 This is how we work:
 
 On our web form, enter the parameter for an Internet Customer, then select one of the 12 models as below
+
 ![Marketing](./marketing/BackendAPI_Form.png)
 
 Then click Predict button to know the possibility if this Customer can churn or not
