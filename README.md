@@ -10,7 +10,7 @@ You can try our demo data onto the Internet Customer Churn Prediction System her
 
 https://github.com/mekongsoft/custchurn-demo
 
-We have created 12 models to compare their performances on Internet Customer Churn Prediction
+## We have created 12 models to compare their performances on Internet Customer Churn Prediction
 
 * Adaboost
 * CatBoost
@@ -51,7 +51,17 @@ These below are the True Positive rate for Adaboost, CatBoost and XGBoost
 
 ![Marketing](./marketing/XGBoostTruePositive.png)
 
-We have also reached the similar conclusions to Internet Customer Churn Prediction:
+## MLflow on Databricks 
+
+### ML project history
+
+![MLflow](./marketing/mlflow1.png)
+
+### Adaboost prediction accuracy
+
+![MLflow](./marketing/mlflow2.png)
+
+# We have also reached the similar conclusions to Internet Customer Churn Prediction:
 
 1. Internet customers with Month-to-Month Contract opted to move out than One-Year Contracted or Two-Year Contracted customers
 2. Internet customers who pay by Credit-Card Automatic Transfer, Bank Automatic Transfer or Mailed Check are less likely to churn
